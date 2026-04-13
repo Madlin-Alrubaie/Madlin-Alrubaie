@@ -1,13 +1,4 @@
 
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,2,25,5,30&height=200&section=header&text=Alice%20Gohny&fontSize=90&animation=fadeIn&fontAlignY=38" />
-</p>
-
-
-<div align="center">
-
 # 👋 Welcome to my Digital Universe
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Student+%26+Problem+Solver;C%23+%26+C%2B%2B+Developer;Database+Enthusiast+(SQL%2FPL);Future+Software+Engineer" alt="Typing Animation" />
