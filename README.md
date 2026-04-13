@@ -1,16 +1,28 @@
-## Hi there 👋
+class RafnixG:
 
-<!--
-**alicegohny-web/alicegohny-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def __init__(self):
+        self.username = 'rafnixg'
+        self.name = 'Rafnix Guzmán'
+        self.position = 'Python Software Developer'
+        self.web = 'https://rafnixg.dev'
+        self.links = 'https://links.rafnixg.dev'
+        self.blog = 'https://blog.rafnixg.dev'
+        self.cv = 'https://resume.rafnixg.dev'
+        self.twitter = '@rafnixg'
+        self.code = {
+            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'NodeJS', 'PHP'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
 
-Here are some ideas to get you started:
+    def __str__(self):
+        return f'{self.name} | {self.position}'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+if __name__ == '__main__':
+    me = RafnixG()
+    print(me)
