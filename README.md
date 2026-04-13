@@ -31,11 +31,11 @@
 
 ### 📊 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicegohny-web&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madlin Al_Rubaie-web&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicegohny-web&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madlin Al_Rubaie-web&theme=tokyonight&hide_border=true" alt="Streak" />
 </p>
 
 ---
