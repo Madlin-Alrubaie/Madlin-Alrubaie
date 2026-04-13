@@ -24,7 +24,7 @@
 
 ### 📊 My Coding Journey
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alicegohny-web&show_icons=true&theme=tokyonight&border_radius=10" alt="Stats" />
 </p>
 
 <p align="center">
