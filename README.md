@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 - 🎓 **Academic Path:** 2nd Year IT Student, building a strong foundation in software logic.
-- 🧩 **Focus:** Currently deep-diving into **Problem Solving** and **C#** development.
+- 🧩 **Focus:** Currently deep-diving into **Problem Solving** (Codewars) and **C#** development.
 - 💾 **Databases:** Experienced in **SQL** and **PL/SQL** for structured data management.
 - ⚡ **Motto:** Code is easy, logic is where the magic happens.
 
@@ -30,15 +30,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madlin-Alrubaie&theme=tokyonight&hide_border=true" alt="Streak" />
+  <br>
+  <a href="https://www.codewars.com/users/Madlin-Alrubaie">
+    <img src="https://www.codewars.com/users/Madlin-Alrubaie/badges/large" alt="Codewars" />
+  </a>
 </p>
-
-
 
 ---
 
 ### 🛠 Tools I Use
 - **IDEs:** Visual Studio, VS Code, Code::Blocks.
-- **Problem Solving:** Actively practicing logical thinking and algorithmic efficiency.
+- **Problem Solving:** Actively practicing logical thinking on Codewars.
 
 ---
 
