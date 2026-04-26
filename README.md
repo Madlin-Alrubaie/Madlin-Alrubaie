@@ -19,7 +19,7 @@
 </div>
 
 ### 🚀 About Me
-- 🎓 **Academic Path:** 2nd Year IT Student, building a strong foundation in software logic.
+- 🎓 **Academic Path:** 3rd Year IT Student, building a strong foundation in software logic.
 - 🧩 **Focus:** Currently deep-diving into **Problem Solving** (Codewars) and **C#** development.
 - 💾 **Databases:** Experienced in **SQL** and **PL/SQL** for structured data management.
 - ⚡ **Motto:** Code is easy, logic is where the magic happens.
